@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+    <item
+        android:id="@+id/flutterFragment"
+        android:icon="@drawable/flutter"
+        android:title="Flutter" />
+    <item
+        android:id="@+id/androidFragment"
+        android:icon="@drawable/android"
+        android:title="Android" />
+    <item
+        android:id="@+id/experienceFragment"
+        android:icon="@drawable/experience"
+        android:title="Experience" />
+    <item
+        android:id="@+id/uiUxFragment"
+        android:icon="@drawable/uiux"
+        android:title="UI/UX" />
+    <item
+        android:id="@+id/settingFragment"
+        android:icon="@drawable/setting"
+        android:title="Setting" />
+</menu>

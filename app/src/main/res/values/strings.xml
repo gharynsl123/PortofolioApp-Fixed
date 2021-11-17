@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Portofolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="txt_nama_profile">Gharyn</string>
+    <string name="txt_full_name">Ananda Gharyn</string>
+    <string name="txt_creer">Android And Web Developer At IDN Boarding School</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tentang">Hai Nama Saya Ananda Gharyn Sinulingga Kalian Bisa memanggil saya Dengan Gharyn. saya sudah bersekolah di IDN selama 3 Tahun Dan dari dulu saya memang sangat suka Dengan RPL,  jadi saya memutus kan untuk Belajar tentang rekayasa perangkat lunak dan ternyata saya memang suka. lalu alhamdulillah sekarang saya sudah bisa memahami front-end developer</string>
+
+    <string name="app_android_btn">%s App Android</string>
+    <string name="documentation_link">Documentation Link</string>
+</resources>
